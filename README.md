@@ -6,6 +6,6 @@ Source code for [technical sharing](http://www.jianshu.com/p/80cf81413d31) of [W
 
 * mkdir build
 * cd build
-* qmake ..
+* cmake ..
 * make
 * ./xrecord-example
